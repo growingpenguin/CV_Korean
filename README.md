@@ -18,7 +18,7 @@ Name: RYOO GYEONGBIN <br/>
 
 
 
-## [2. Work Experience]
+## [2. Project & Research Experience]
 ### [2.1. Internship]
 Member of the Marine Hydrodynamics AI Research Lab (2023.03 ~2023.12.5) <br/>
 Member of the [Mobility Service Research Lab](https://kim415.github.io/) (2024.12.08 ~ ) <br/>
@@ -57,8 +57,9 @@ Company        | Project                | Skills              | Special Note
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------|
 | Analyzing Experimental Data of 6-Dof Motions and Sloshing Impacts in LNG Carriers           | Yangjun Ahn, Mun-Gwan Choi HD, Cheonjin Park HD, Sang-Yeob Kim, Taehyun Park, Woohyeon Shim, Gyeongbin Ryoo | ASME 43rd International Conference on Ocean, Offshore & Arctic Engineering (OMAE2024)                    | June 2024 (In Proceedings) | [Download PDF](papers/OMAE2024-127214.pdf) |      
 
-### [3.2. Suburb Course]
-#### [3.2.1 Extra Curricular Activities]
+## [3. Education]
+### [3.1. Suburb Course]
+#### [3.1.1 Extra Curricular Activities]
 Name           | Date                 | Description    
 ---------------|----------------------|-------------------------
 SSC            | 2021                 | 영어 회화 동아리  
@@ -67,15 +68,13 @@ NVIDIA DLI Couse | 2022               | 딥러닝 기초 NVIDIA 교육
 LG AIMERS      | 2023                 | [LG AI 교육 프로그램](https://drive.google.com/file/d/13YDTcxhHUNgVtTlgpNUeH-ZWnCGqDuJd/view?usp=sharing)
 ELECOURSE      | 2024                 | 전자공학 동아리
 
-
-
-#### [3.2.2 Volunteer Activities]
+#### [3.1.2 Volunteer Activities]
 Name           | Date                 | Description    
 ---------------|----------------------|-------------------------
 대딩코딩       | 2022                 | [Coding Education club](https://blog.naver.com/sweetyleah2/222857460025)  
 네이버 1784 스쿨혁명 봉사활동 | 2023                 | SW/AI Camp with Naver Connect
 
-### [3.3. Related School Courses]
+### [3.2. Related School Courses]
 School Courses   | Date                 | Verification      
 ---------------|----------------------|-------------------
 소프트웨어 융합개론  | 2021           |         
@@ -108,8 +107,6 @@ IT개론 | 2022           |
 캡스톤 디자인 | 2024           |
 메타버스의 이해 | 2024           |
 
-
-
 ## [4. Certificates]
 
 Certificates   | Date                 | Verification      
@@ -118,7 +115,6 @@ MOS Word       | 2022-02-25           |
 MOS Powerpoint | 2021-02-17           |
 
 ## [5. Honors and Awards]
-
 Honors / Awards                       | Date                 | Verification      
 --------------------------------------|----------------------|-------------------
 어학 장학금(영어)A  | 2022-02-03 |        
