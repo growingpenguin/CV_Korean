@@ -121,7 +121,8 @@ Certificates   | Date                 | Verification
 MOS Word       | 2022-02-25           |         
 MOS Powerpoint | 2021-02-17           |
 
-## [5. Honors and Awards]
+## [5. Scholarships and Awards]
+### [5.1. Scholarships]
 Honors / Awards                       | Date                 | Verification      
 --------------------------------------|----------------------|-------------------
 어학 장학금(영어)A  | 2022-02-03 |        
@@ -132,11 +133,15 @@ Honors / Awards                       | Date                 | Verification
 방송 언론 C 장학금     | 2023-08-10           |
 UROP 장학금 | 2023-09-11 |
 성신 장학금(성적 우수)     | 2023-08-22          |
-교내 SW 경진대회 장려상     | 2023-08-23          |
 방송 언론B 장학금     | 2023-02-29           |
 방송 언론A 장학금     | 2023-07-26           |
 성적 최우수 장학금(등록금 90%)     | Scheduled for Payment           |
-한국통신학회 하계종합학술발표회 학부우수 논문상(장려)     | 2024-06-19          |
+
+### [5.2. Awards]
+Honors / Awards                       | Date                 | Verification      
+--------------------------------------|----------------------|-------------------
+교내 SW 경진대회 장려상     | 2023-08-23          |
+[한국통신학회 하계종합학술발표회 학부우수 논문상(장려)](awards/2024년_하계_학부우수논문상_상장_류경빈(성신여대).pdf)     | 2024-06-19          |
 
 ## [6. Qualifications]
 Qualification  | Score                | Date              | Verification
