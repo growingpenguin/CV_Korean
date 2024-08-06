@@ -10,7 +10,7 @@ Name: RYOO GYEONGBIN <br/>
   - Github: https://github.com/growingpenguin
 
 ### [1.2. Education]
-Sungshin Women's University, 2021-03 ~ 
+성신여자대학교, 2021-03 ~ 
 
   - Major: AI
   - Intensive Major: AI
@@ -43,13 +43,13 @@ Project            | Skills           | Description
 #### [2.2.3. Commercial Projects]
 Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
-Hyundai Heavy Machinary  |[Position-specific sloshing load prediction program using deep learning](https://github.com/growingpenguin/RsProject_UROP)  | C++, Python             | AWS, Microsoft SQL
+현대 중공업  |[Position-specific sloshing load prediction program using deep learning](https://github.com/growingpenguin/RsProject_UROP)  | C++, Python             | AWS, Microsoft SQL
 
 ### [2.3. Publications]
 #### [2.3.1. Domestic Conference]
 | Title                                                                                       | Authors                                                                                             | Conference                                                                                               | Date                       | Download PDF |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------|---------------|
-| Performance Analysis of Semantic Segmentation in Fine-tuned Models Based on Virtual Environment | Gyeongbin Ryoo, Jeong Min Oh, Ji Soo Kang, and Joon Young Kim                                      | Symposium of the Korean Institute of Communications and Information Sciences                              | June 2024 (In Proceedings) | [Download PDF](papers/하계학술대회 논문.pdf) |
+| Performance Analysis of Semantic Segmentation in Fine-tuned Models Based on Virtual Environment | Gyeongbin Ryoo, Jeong Min Oh, Ji Soo Kang, and Joon Young Kim                                      | 한국 통신학회                              | June 2024 (In Proceedings) | [Download PDF](papers/하계학술대회 논문.pdf) |
 | Simulation-based Service Scenarios Analysis for Commercial Deployment: Robot-Friendly Building Case | Soo Min Shim, Jeong Min Oh, Nam Gyo Kim, and Gyeongbin Ryoo, Ji Soo Kang, Young Eun Kim, Seong Wook Hwang, Hee Sang Lee, Joon Young Kim | KOSIME Summer Academic Conference                                                                         | June 2024 (In Proceedings) | [Download PDF](https://github.com/growingpenguin/CV/raw/main/path/to/your-file3.pdf) |
 
 #### [2.3.2. International Conference]
