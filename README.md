@@ -133,7 +133,7 @@ UROP 장학금 | 2023-09-11 |
 방송 언론B 장학금     | 2023-02-29           |
 방송 언론A 장학금     | 2023-07-26           |
 성적 최우수 장학금(등록금 90%)     | Scheduled for Payment           |
-한국통신학회 하계종합학술발표회 학부우수 논문상(장려)     | Scheduled for Payment           |
+한국통신학회 하계종합학술발표회 학부우수 논문상(장려)     | 2023-06-19          |
 
 ## [6. Qualifications]
 Qualification  | Score                | Date              | Verification
