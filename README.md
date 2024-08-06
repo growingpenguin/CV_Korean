@@ -29,14 +29,21 @@ Member of the [Mobility Service Research Lab](https://kim415.github.io/) (2024.1
 #### [2.2.2. University Projects]
 Project            | Skills           | Description
 -------------------|------------------|-----------------------------
-[AI Service Design Project](https://github.com/growingpenguin/kioring)  | Java             | Boader app
-[CJ DataAnalysis Project](https://github.com/growingpenguin/CJ_DataAnalysisCompetition) | C++ | Marketing Report Based on analyzing CJ sales data
-[DataStructure Project](https://github.com/growingpenguin/DatastructureProject)   | C++ | AVL Tree that classifies trash data
-[Genetic Algorithm Project using Expression Trees](https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees/tree/master)   | C++ | Genetic Algorithm using Expression Trees
-[Pure/Hybrid Genetic Algorithm Project](https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees/tree/master)   | C++ | Basic Genetic Algorithms 
-[Mobile Programming Project]()   | Java | App that checks the daily nutrition state of users
-[NLP Project](https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning.git)   | Python | Sentiment analysis of Korean movie reviews from the Naver Sentiment Movie Corpus (NSMC) using two state-of-the-art language models: meta-llama/Llama-2-7b-chat-hf and KT-AI/midm-bitext-S-7B-inst-v1
-[Metaverse Experiment Project](https://github.com/growingpenguin/TurtleVerseSync.git)   | Java | The project explores the synchronization of virtual and physical movements within the metaverse by linking Unity Game Engine, Node.js, and TurtleBot3, demonstrating real-time interaction between user inputs in a virtual environment and a physical robot
+[AI Service Design Project](https://github.com/growingpenguin/kioring)  | Java             | 이미지 인식 어플리케이션
+[CJ DataAnalysis Project](https://github.com/growingpenguin/CJ_DataAnalysisCompetition) | C++ | CJ 판매 데이터 분석 기반 마케팅 보고서
+[DataStructure Project](https://github.com/growingpenguin/DatastructureProject)   | C++ | 쓰레기 데이터를 분류하는 AVL 트리 자료 구조 
+[Genetic Algorithm Project using Expression Trees](https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees/tree/master)   | C++ | 수식 트리를 활용한 유전 알고리즘
+[Pure/Hybrid Genetic Algorithm Project](https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees/tree/master)   | C++ | Basic 유전 알고리즘 
+[Mobile Programming Project]()   | Java | 사용자의 일일 영양 상태를 확인하는 모바일 어플리케이션 
+[NLP Project](https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning.git)   | Python | 최신 언어 모델 두 개를 사용하여 Naver Sentiment Movie Corpus (NSMC)에서 한국 영화 리뷰의 감정 분석: meta-llama/Llama-2-7b-chat-hf와 KT-AI/midm-bitext-S-7B-inst-v1 <br/>
+[Metaverse Experiment Project](https://github.com/growingpenguin/TurtleVerseSync.git)   | Python | Unity 게임 엔진, Node.js, TurtleBot3를 연결하여 메타버스 내 가상 움직임과 물리적 움직임을 동기화하고, 가상 환경에서의 사용자 입력과 물리적 로봇 간의 실시간 상호작용 시연 프로젝트 <br/>
+
+
+
+
+
+
+
 
 
 
