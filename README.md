@@ -113,18 +113,19 @@ MOS Powerpoint | 2021-02-17           |
 
 Honors / Awards                       | Date                 | Verification      
 --------------------------------------|----------------------|-------------------
-Improvement of Language Skills Scholarship(English)A Scholarship | 2022-02-03 |        
-Broadcast JournalismC Scholarship | 2022-09-11 |
-Broadcast JournalismC Scholarship     | 2022-12-26           |
-Academic Excellence1 Scholarship      | 2023-02-20           | 
-Improvement of Language Skills Scholarship(English)B Scholarship | 2022-02-03 |
-Broadcast JournalismC Scholarship     | 2023-08-10           |
-UROP Scholarship | 2023-09-11 |
-Sungshin Scholarship(Academic Excellence)     | 2023-08-22          |
-AI SW school Competition     | 2023-08-23          |
-Broadcast JournalismB Scholarship     | 2023-02-29           |
-Broadcast JournalismA Scholarship     | 2023-07-26           |
-Top Academic Achievement Scholarship     | Scheduled for Payment           |
+어학 장학금(영어)A  | 2022-02-03 |        
+방송 언론 C 장학금 | 2022-09-11 |
+방송 언론 C 장학금     | 2022-12-26           |
+성적 우수1 장학금(등록금 80%)      | 2023-02-20           | 
+어학 장학금(영어)B | 2022-02-03 |
+방송 언론 C 장학금     | 2023-08-10           |
+UROP 장학금 | 2023-09-11 |
+성신 장학금(성적 우수)     | 2023-08-22          |
+교내 SW 경진대회 장려상     | 2023-08-23          |
+방송 언론B 장학금     | 2023-02-29           |
+방송 언론A 장학금     | 2023-07-26           |
+성적 최우수 장학금(등록금 90%)     | Scheduled for Payment           |
+한국통신학회 하계종합학술발표회 학부우수 논문상(장려)     | Scheduled for Payment           |
 
 ## [6. Qualifications]
 Qualification  | Score                | Date              | Verification
