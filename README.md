@@ -47,87 +47,58 @@ Company        | Project                | Skills              | Special Note
 
 ### [2.3. Publications]
 #### [2.3.1. Domestic Conference]
-| Title                                                                                       | Authors                                                                                             | Conference                                                                                               | Date                       | Download PDF |
-|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------|---------------|
-| Performance Analysis of Semantic Segmentation in Fine-tuned Models Based on Virtual Environment | Gyeongbin Ryoo, Jeong Min Oh, Ji Soo Kang, and Joon Young Kim                                      | 한국 통신학회                              | June 2024 (In Proceedings) | [Download PDF](papers/하계학술대회 논문.pdf) |
-| Simulation-based Service Scenarios Analysis for Commercial Deployment: Robot-Friendly Building Case | Soo Min Shim, Jeong Min Oh, Nam Gyo Kim, and Gyeongbin Ryoo, Ji Soo Kang, Young Eun Kim, Seong Wook Hwang, Hee Sang Lee, Joon Young Kim | KOSIME Summer Academic Conference                                                                         | June 2024 (In Proceedings) | [Download PDF](https://github.com/growingpenguin/CV/raw/main/path/to/your-file3.pdf) |
-
-#### [2.3.2. International Conference]
-| Title                                                                                       | Authors                                                                                             | Conference                                                                                               | Date                       | PDF Link                                                                                   |
-|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------|
-| Analyzing Experimental Data of 6-Dof Motions and Sloshing Impacts in LNG Carriers           | Yangjun Ahn, Mun-Gwan Choi HD, Cheonjin Park HD, Sang-Yeob Kim, Taehyun Park, Woohyeon Shim, Gyeongbin Ryoo | ASME 43rd International Conference on Ocean, Offshore & Arctic Engineering (OMAE2024)                    | June 2024 (In Proceedings) | [Download PDF](papers/OMAE2024-127214.pdf) |
-
-
-#### [2.3.2. University Projects]
-Project            | Skills           | Description
--------------------|------------------|-----------------------------
-[AI Service Design Project](https://github.com/growingpenguin/kioring)  | Java             | Boader app
-[CJ DataAnalysis Project](https://github.com/growingpenguin/CJ_DataAnalysisCompetition) | C++ | Marketing Report Based on analyzing CJ sales data
-
-### [2.4. Documentation]
-
-### [2.5. Test Driven Development]
-
-
-
-
-
-## [3. Additional Information]
-### [3.1. School Club]
-Name           | Date                 | Description    
----------------|----------------------|-------------------------
-Mirror         | 2022~                 | [English Newspaper club](https://github.com/growingpenguin/Mirror/tree/master)        
+| Title                                                                                       | Authors                                                                                             | Conference 부](https://github.com/growingpenguin/Mirror/tree/master)        
 
 ### [3.2. Suburb Course]
 #### [3.2.1 Extra Curricular Activities]
 Name           | Date                 | Description    
 ---------------|----------------------|-------------------------
-SSC            | 2021                 | English Speaking club  
-BDAA           | 2022                 | Big Data Analysis club
-NVIDIA DLI Couse | 2022               | NVIDIA's Educational course for Basics of DeepLearning
-LG AIMERS      | 2023                 | [LG group educational program](https://drive.google.com/file/d/13YDTcxhHUNgVtTlgpNUeH-ZWnCGqDuJd/view?usp=sharing)
+SSC            | 2021                 | 영어 회화 동아리  
+BDAA           | 2022                 | 빅데이터 분석 동아리
+NVIDIA DLI Couse | 2022               | 딥러닝 기초 NVIDIA 교육
+LG AIMERS      | 2023                 | [LG AI 교육 프로그램](https://drive.google.com/file/d/13YDTcxhHUNgVtTlgpNUeH-ZWnCGqDuJd/view?usp=sharing)
+ELECOURSE      | 2024                 | 전자공학 동아리
+
 
 
 #### [3.2.2 Volunteer Activities]
 Name           | Date                 | Description    
 ---------------|----------------------|-------------------------
 대딩코딩       | 2022                 | [Coding Education club](https://blog.naver.com/sweetyleah2/222857460025)  
-1784 School Evolution Undergraduate Mentor | 2023                 | SW/AI Camp with Naver Connect
+네이버 1784 스쿨혁명 봉사활동 | 2023                 | SW/AI Camp with Naver Connect
 
 ### [3.3. Related School Courses]
 School Courses   | Date                 | Verification      
 ---------------|----------------------|-------------------
-Introduction to Software Integration  | 2021           |         
-Discrete Mathematics | 2021           |
-Introduction to Statistics | 2021           |
-Python Programming | 2021           |
-Java Programming | 2021           |
-C++ Programming | 2021           |
-Calculus and Vector Fundamentals| 2021           |
-Advanced Python Programming | 2022           |
-DataStructure | 2022           |
-Operating System | 2022          |
-Artificial Intelligence | 2022           |
-AI Service Design | 2022           |
-Advanced C++ Programming | 2022           |
-Introductions to IT | 2022           |
-Database | 2022           |
-DataStructure Hands-on class | 2022           |
-Mobile Programming | 2022           |
-Algorithm | 2023           |
-Deep Learning | 2023           |
-Computer Structure | 2023           |
-Cloud Computing | 2023           |
-Recommendation System | 2023           |
-Natural Language Processing | 2023           |
-Big Data Analysis | 2023           |
-Reinforcement Learning | 2023           |
-Computer Vision | 2023           |
-World News Analysis | 2024           |
-Capstone Design | 2024           |
-Advanced Effective Speech | 2024           |
-Understanding the Metaverse | 2024           |
-British Culture And History | 2024           |
+소프트웨어 융합개론  | 2021           |         
+이산수학 | 2021           |
+기초 통계학 | 2021           |
+파이썬 프로그래밍 | 2021           |
+자바 프로그래밍 | 2021           |
+C++ 프로그래밍 | 2021           |
+미적분과 벡터| 2021           |
+고급 파이썬 프로그래밍 | 2022           |
+자료 구조 | 2022           |
+운영체제 | 2022          |
+인공지능 | 2022           |
+AI 서비스 디자인 | 2022           |
+고급 C++ 프로그래밍 | 2022           |
+IT개론 | 2022           |
+데이터베이스 | 2022           |
+자료구조 실습 | 2022           |
+모바일 프로그래밍 | 2022           |
+알고리즘 | 2023           |
+딥러닝 | 2023           |
+컴퓨터 구조 | 2023           |
+클라우드 컴퓨팅 | 2023           |
+추천 시스템 | 2023           |
+컴퓨터 비전 | 2023           |
+자연어 처리 | 2023           |
+빅데이터 분석 | 2023           |
+강화 학습 | 2023           |
+컴퓨터 구조 | 2023           |
+캡스톤 디자인 | 2024           |
+메타버스의 이해 | 2024           |
 
 
 
