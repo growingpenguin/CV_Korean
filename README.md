@@ -43,7 +43,7 @@ Project            | Skills           | Description
 #### [2.2.3. Commercial Projects]
 Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
-현대 중공업  |[Position-specific sloshing load prediction program using deep learning](https://github.com/growingpenguin/RsProject_UROP)  | C++, Python             | AWS, Microsoft SQL
+현대 중공업  |[딥러닝을 이용한 위치별 슬로싱 하중 예측 프로그램 개발](https://github.com/growingpenguin/RsProject_UROP)  | C++, Python             | AWS, Microsoft SQL
 
 ### [2.3. Publications]
 #### [2.3.1. Domestic Conference]
