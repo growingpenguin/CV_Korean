@@ -12,8 +12,8 @@ Name: RYOO GYEONGBIN <br/>
 ### [1.2. Education]
 성신여자대학교, 2021-03 ~ 
 
-  - Major: AI
-  - Intensive Major: AI
+  - 전공: AI
+  - 심화 전공: AI
   - GPA: 4.07 / 4.50
 
 
