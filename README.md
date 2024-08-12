@@ -1,4 +1,4 @@
-[류경빈](https://github.com/growingpenguin) CV
+# [류경빈](https://github.com/growingpenguin) CV
 > This is an abbreviated resume, when clicking each title, it would lead to a specific page.
 ## [1. Outline]
 ### [1.1. Profile](https://github.com/growingpenguin/CV/blob/master/README.md)
