@@ -73,6 +73,7 @@ SSC            | 2021 ~ 2023               | 영어 회화 동아리
 BDAA           | 2022                 | 빅데이터 분석 동아리
 NVIDIA DLI Couse | 2022               | 딥러닝 기초 NVIDIA 교육
 LG AIMERS      | 2023                 | [LG AI 교육 프로그램](https://drive.google.com/file/d/13YDTcxhHUNgVtTlgpNUeH-ZWnCGqDuJd/view?usp=sharing)
+[Mirror](https://github.com/growingpenguin/Mirror)      | 2022-09-01 ~                 | 교내 영자신문부 (편집장)
 [ELECOURSE](https://github.com/growingpenguin/ELECourse.git)      | 2024-03-01 ~                 | 전자공학 동아리
 
 #### [3.1.2 Volunteer Activities]
