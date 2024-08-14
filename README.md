@@ -144,7 +144,7 @@ Honors / Awards                       | Date                 | Verification
 ## [6. Qualifications]
 Qualification  | Score                | Date              | Verification
 ---------------|----------------------|-------------------|---------------------
-TOEIC          |  965               | 2023-07-09        |
+TOEIC          |  975               | 2024-08-04        |
 OPIC          |  AL               | 2023-09-24        |
 TOEFL          |  107               | 2024-07-13        |
 
