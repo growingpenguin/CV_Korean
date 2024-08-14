@@ -51,6 +51,8 @@ Project            | Skills           | Description
 Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
 현대 중공업  |[딥러닝을 이용한 위치별 슬로싱 하중 예측 프로그램 개발](https://github.com/growingpenguin/RsProject_UROP)  | C++, Python             | AWS, Microsoft SQL
+현대 중공업  |[딥러닝을 이용한 위치별 슬로싱 하중 예측 프로그램 개발](https://github.com/growingpenguin/RsProject_UROP)  | C++, Python             | AWS, Microsoft SQL
+현대 자동차  |로봇친화빌딩과 외부 서비스 사업자간 연계 시나리오 상세화 및 사업 BM 고도화 과제 참여  |              | 
 
 ### [2.3. Publications]
 #### [2.3.1. Domestic Conference]
