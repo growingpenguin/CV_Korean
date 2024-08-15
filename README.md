@@ -138,7 +138,7 @@ UROP 장학금 | 2023-09-11 |
 ### [5.2. Awards]
 Honors / Awards                       | Date                 | Verification      
 --------------------------------------|----------------------|-------------------
-교내 SW 경진대회 장려상     | 2023-08-23          |
+2023년 AI융합학부 소프트웨어 경진대회 개발톤 장려상     | 2023-08-23          |
 [한국통신학회 하계종합학술발표회 학부우수 논문상(장려)](https://github.com/growingpenguin/CV_Korean/blob/main/awards/2024%EB%85%84_%ED%95%98%EA%B3%84_%ED%95%99%EB%B6%80%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81_%EC%83%81%EC%9E%A5_%EB%A5%98%EA%B2%BD%EB%B9%88(%EC%84%B1%EC%8B%A0%EC%97%AC%EB%8C%80).pdf)     | 2024-06-19          |
 
 ## [6. Qualifications]
