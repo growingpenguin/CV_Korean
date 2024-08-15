@@ -147,6 +147,7 @@ Qualification  | Score                | Date              | Verification
 TOEIC          |  975               | 2024-08-04        |
 OPIC          |  AL               | 2023-09-24        |
 TOEFL          |  107               | 2024-07-13        |
+TEPS          |  448               | 2024-03-30        |
 
 
 
