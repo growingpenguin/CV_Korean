@@ -118,7 +118,7 @@ IT개론 | 2022           |
 Certificates   | Date                 | Verification      
 ---------------|----------------------|-------------------
 MOS Word       | 2022-02-25           |         
-MOS Powerpoint | 2021-02-17           |
+MOS Powerpoint | 2022-02-17           |
 
 ## [5. Scholarships and Awards]
 ### [5.1. Scholarships]
