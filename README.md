@@ -39,8 +39,6 @@ Project            | Skills           | Description
 [Metaverse Experiment Project](https://github.com/growingpenguin/TurtleVerseSync.git)   | Python | Unity 게임 엔진, Node.js, TurtleBot3를 연결하여 메타버스 내 가상 움직임과 물리적 움직임을 동기화하고, 가상 환경에서의 사용자 입력과 물리적 로봇 간의 실시간 상호작용 시연 프로젝트 <br/>
 
 
-
-
 #### [2.2.3. Commercial Projects]
 Company        | Project                | Skills              | Special Note             | Date
 ---------------|------------------------|---------------------|--------------------------|---------------------
