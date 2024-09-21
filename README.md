@@ -2,7 +2,8 @@
 > This is an abbreviated resume, when clicking each title, it would lead to a specific page.
 ## [1. Outline]
 ### [1.1. Profile](https://github.com/growingpenguin/CV/blob/master/README.md)
-![증명사진](https://github.com/growingpenguin/CV/assets/110277903/64b41565-624d-46fb-8f02-9e1f171a6513) <br/>
+![IDPhoto](https://github.com/user-attachments/assets/90f49499-91d2-4274-881a-11693693abab)
+ <br/>
   - Name: 류경빈 (Ryoo Gyeongbin) <br/>
   - Birth Date: 2002-01-12
   - Email: sweetyleah0@gmail.com
