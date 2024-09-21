@@ -2,7 +2,6 @@
 > This is an abbreviated resume, when clicking each title, it would lead to a specific page.
 ## [1. Outline]
 ### [1.1. Profile](https://github.com/growingpenguin/CV/blob/master/README.md)
-![IDPhoto](https://github.com/user-attachments/assets/90f49499-91d2-4274-881a-11693693abab) <br/>
 ![IDPhoto2](https://github.com/user-attachments/assets/ec5aafee-2a9a-4f97-b3cc-346af9aa34d4) <br/>
   - Name: 류경빈 (Ryoo Gyeongbin) <br/>
   - Birth Date: 2002-01-12
