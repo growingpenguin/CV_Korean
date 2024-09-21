@@ -3,7 +3,6 @@
 ## [1. Outline]
 ### [1.1. Profile](https://github.com/growingpenguin/CV/blob/master/README.md)
 ![IDPhoto](https://github.com/user-attachments/assets/90f49499-91d2-4274-881a-11693693abab) <br/>
-![IDPhoto1](https://github.com/user-attachments/assets/b08d9d00-0565-491f-9491-e5cf6635fd99)
 
  <br/>
   - Name: 류경빈 (Ryoo Gyeongbin) <br/>
